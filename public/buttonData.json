@@ -1,42 +1,47 @@
 [
   {
-    "id": "coursepage_PAS",
-    "text": "Write the course page using a PAS copywriting framework. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
-    "label": "CoursePage PAS"
+    "id": "Client_Personas",
+    "text": "Identify the top 3 Buyer Personas based on these reviews. Focus on why they need our service, emotions they express, and what life circumstances, or situations trigger their decision to buy.",
+    "label": "👥 Client Personas"
   },
   {
-    "id": "coursepage_Copyblogger",
-    "text": "Create a course page in the style of Copyblogger. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
-    "label": "CoursePage Copyblogger"
+    "id": "Storybrand",
+    "text": "Write a StoryBrand style BrandScript based on these customer interviews",
+    "label": "📖 StoryBrand"
   },
   {
-    "id": "coursepage_AppSumo",
-    "text": "Create a course page in the style of AppSumo. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
-    "label": "CoursePage AppSumo"
+    "id": "Mission",
+    "text": "Craft a larger-purpose Mission our community can invest in emotionally. How are we making the world better? Deliver a short compelling mission that our community can feel inspired to get behind. State the mission in a short, compelling headline, and provide any additional elements as needed",
+    "label": "🚀 Mission"
   },
   {
-    "id": "coursepage_DigitalMarketer",
-    "text": "Create a course page in the style of DigitalMarketer. Write in the first person voice of the instructor, but don't say her name. Be warm, welcoming, and speak to the audience as fellow creators on the same journey as herself.",
-    "label": "CoursePage DigitalMarketer"
+    "id": "FAQ",
+    "text": "Write 10 FAQs and answers for our website",
+    "label": "❓ FAQ"
   },
   {
-    "id": "coursepage_FuckJerry",
-    "text": "Create a course page in the style of FuckJerry. Be humorous and engaging while detailing the benefits of the course.",
-    "label": "CoursePage FuckJerry"
+    "id": "Three_Step_Ad",
+    "text": "Create 3 Facebook Ads using the How It Works Framework. Pick 3 results about our product and write in this format:\n\nHow to use [product/service]:\n[emoji] step 1\n[emoji] step 2\n[emoji] step 3\nCall to Action\n\n(keep each step under 50 characters and start line with an emoji)",
+    "label": "1️⃣2️⃣3️⃣ Three Step Ad"
   },
   {
-    "id": "coursepage_Mission",
-    "text": "Craft a larger-purpose Mission our community can invest in emotionally. How are we making the world better? Deliver a short compelling mission that our community can feel inspired to get behind. State the mission in a short, compelling headline, and provide any additional elements as needed.",
-    "label": "Mission"
+    "id": "Use_Case_Ad",
+    "text": "Create 3 Facebook Ads using the Use Case Bullet List Framework. Pick use cases for our company and write in this format:\n\nThe perfect [type of product] for . . .\n[emoji] use case 1\n[emoji] use case 2\n[emoji] use case 3\n[emoji] use case 4\nCall to Action\n\n(Keep each use case on it's own line less than 50 characters)\n",
+    "label": "🎯 Use Case Ad"
   },
   {
-    "id": "coursepage_UseCase",
-    "text": "Create 3 Facebook Ads using the Use Case Bullet List Framework. Pick use cases for this course and write in this format: The perfect [type of product] for . . . [emoji] use case 1 [emoji] use case 2 [emoji] use case 3 [emoji] use case 4 (Keep each use case on its own line, less than 50 characters)",
-    "label": "UseCase Ad"
+    "id": "Outrageous_Salespage",
+    "text": "Create a sales page in the style of FuckJerry. Be humorous and engaging while detailing the benefits of working with Results.",
+    "label": "🧨 Outrageous Meme Salespage"
   },
   {
-    "id": "coursepage_ThreeStep",
-    "text": "Create 3 Facebook Ads using the How It Works Framework. Pick 3 results from this course and write in this format: How to use [product]: [emoji] step 1 [emoji] step 2 [emoji] step 3 (keep each step under 50 characters and start line with an emoji)",
-    "label": "3-Steps Ad"
+    "id": "PAS_Framework",
+    "text": "Using the ‘Problem-Agitate-Solve’ framework, please write a copy that identifies the most painful problem faced by customers and agitates the issue to show why it is a bad situation. Then, present our product/service as the logical solution to the problem",
+    "label": " 👿 PAS Framework"
+  },
+  {
+    "id": "T-Shirt",
+    "text": "Create 10 Fun T-Shirt Slogans about our Company",
+    "label": "👕 T-Shirt Slogans"
   }
 ]
